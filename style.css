@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color:black;
+  font-family:arial;
+  color:white
+}
+button{
+  margin: 10px 0px;
+  font-size: 15px;
 
-
+}
+span{
+  font-size: 18px;
+  margin: 5px 0px;
+}
+h1{
+  color: grey;
+  font-family: verdana;
+  margin: 40px 0px;
+}
+input[type=number]{
+  margin: 0px 47px;
+}
+.input{
+  margin: 10px;
+}
+.form1{
+  margin: 20px 50px;
+}
+.maindiv {
+  background-color: white;
+  color: #000000;
+  width: 500px;
+  padding: 20px;
+  border-radius: 25px;
+  margin: 0 auto;
+}
